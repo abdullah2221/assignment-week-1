@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript build output
+dist/
+
+# macOS-specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variable files (caution: commit a template version with defaults)
+.env
+
+# Code coverage reports
+coverage/
+
+# JetBrains IDE-specific files
+.idea/
+
+# Visual Studio Code-specific files
+.vscode/
+
+# Swap files
+*.swp
